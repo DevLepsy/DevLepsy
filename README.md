@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Henryck Paris
 =====================================================================================================================================
 
-Fron-end developper
+Front-end developper
 -------------------
 
 I've been learning development since 2020, with a short one-year course in infrastructure.
