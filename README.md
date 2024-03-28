@@ -7,7 +7,7 @@ Front-end developper
 I've been learning development since 2020, with a short one-year course in infrastructure.
 
 * 🌍  I'm based in Orléans
-* 🧠  I'm learning React
+* 🧠  I'm learning FullStack JS/TS
 * ⚡  I love music and astronomy. I'm a guitarist.
 
 ### Skills
