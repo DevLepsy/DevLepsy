@@ -1,31 +1,83 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Henryck Paris
-=====================================================================================================================================
+<h1 align="center">Henryck Paris</h1>
+<h3 align="center">🇫🇷 Software Engineer</h3>
 
-Front-end developper
--------------------
-
-I've been learning development since 2020, with a short one-year course in infrastructure.
-
-* 🌍  I'm based in Orléans
-* 🧠  I'm learning FullStack JS/TS
-* ⚡  I love music and astronomy. I'm a guitarist.
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/henryck-paris/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
+  </a>
 </p>
 
+---
 
-### Socials
+👋 **Hello.**
 
-<p align="left"> <a href="https://www.github.com/DevLepsy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/henryck-paris/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+I'm Henryck, a 39-year-old French software engineer with a real passion for the JS/TS ecosystem. I've been working professionally as a web frontend developer specializing in React for 2 years. I'm always experimenting with other libraries/frameworks and tools.
 
-### Badges
+#### Points of (SUPER) interest:
 
-<b>My GitHub Stats</b>
+- Software Craftsmanship
+- Software Architecture
+- Web Performance
 
-<a href="http://www.github.com/DevLepsy"><img src="https://github-readme-stats.vercel.app/api?username=DevLepsy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DevLepsy's GitHub stats" /></a>
+#### Here are the tools I've been working with professionally
 
-<a href="https://github.com/DevLepsy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLepsy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<table>
+<tr>
+    <td>OS</td>
+    <td>
+        <img src="https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff&style=for-the-badge">
+    </td>
+</tr>
+<tr>
+    <td>Frontend</td>
+    <td>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge">
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge">
+        <img src="https://img.shields.io/badge/Tailwind-7952B3?logo=tailwind&logoColor=fff&style=for-the-badge">
+    </td>
+</tr>
+<tr>
+    <td>Testing</td>
+    <td>
+        <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+        <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+    </td>
+</tr>
+<tr>
+    <td>DevOps & Tools</td>
+    <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    </td>
+</tr>
+</table>
+
+#### Additionally, here's what I've been using in my free time
+
+<table>
+<tr>
+    <td>OS</td>
+    <td>
+        <img src="https://img.shields.io/badge/Ubuntu-dd4814?logo=ubuntu&logoColor=fff&style=for-the-badge">
+    </td>
+</tr>
+<tr>
+    <td>Frontend</td>
+    <td>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge">
+    </td>
+</tr>
+<tr>
+    <td>Backend</td>
+    <td>
+        <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge">
+    </td>
+</tr>
+<tr>
+    <td>Others</td>
+    <td>
+        <img src="https://img.shields.io/badge/Verdaccio-4B5E40?logo=verdaccio&logoColor=fff&style=for-the-badge">
+        <img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff&style=for-the-badge">
+    </td>
+</tr>
+</table>
